@@ -7,7 +7,7 @@ int main() {
     printf("고 윤 : --");
     printf("김건우 : --");
     printf("김주영 : --");
-    printf("금재준 : --");
+    printf("금재준 : 은교 선배! 저 안아주세요♡");
     printf("나하진 : --");
     printf("노현우 : --");
     printf("양서진 : --");
