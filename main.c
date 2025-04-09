@@ -12,7 +12,7 @@ int main() {
     printf("노현우 : --");
     printf("양서진 : --");
     printf("윤준서 : 카이리 어빙");
-    printf("장한울 : --");
+    printf("장한울 : 은교형 잘생겼어요");
     printf("최희원 : 노루 똥개");
     return 0;
 }
