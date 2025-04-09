@@ -6,7 +6,7 @@ int main() {
     printf("강상우 : --");
     printf("고 윤 : --");
     printf("김건우 : --");
-    printf("김주영 : --");
+    printf("김주영 : 안녕하세요요");
     printf("금재준 : --");
     printf("나하진 : 노루 바보");
     printf("노현우 : --");
