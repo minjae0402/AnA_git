@@ -13,6 +13,6 @@ int main() {
     printf("양서진 : --");
     printf("윤준서 : --");
     printf("장한울 : --");
-    printf("최희원 : --");
+    printf("최희원 : 노루 똥개");
     return 0;
 }
