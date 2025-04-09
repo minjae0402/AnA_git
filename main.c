@@ -9,7 +9,7 @@ int main() {
     printf("김주영 : --");
     printf("금재준 : --");
     printf("나하진 : --");
-    printf("노현우 : --");
+    printf("노현우 : 뽀로로 음료수 주머니안에서 누수났어요..");
     printf("양서진 : --");
     printf("윤준서 : --");
     printf("장한울 : --");
