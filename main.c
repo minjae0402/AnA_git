@@ -10,7 +10,7 @@ int main() {
     printf("금재준 : --");
     printf("나하진 : --");
     printf("노현우 : --");
-    printf("양서진 : --");
+    printf("양서진 : 노루 멍청이");
     printf("윤준서 : --");
     printf("장한울 : --");
     printf("최희원 : --");
